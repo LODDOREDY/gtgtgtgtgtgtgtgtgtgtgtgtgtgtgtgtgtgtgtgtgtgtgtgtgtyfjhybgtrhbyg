@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:aliceblue;
+}
+main {
+    background-color:brown;
+}
+footer { 
+    background-color: blueviolet;
+}
+header {
+    background-color: lightgreen;
+}
+.zxc {
+    font-size: 20px;
+}
